@@ -1,1 +1,1 @@
-# College-Enquiry-Chatbot-Using-Python
+# College-Enquiry Chatbot Using Python
